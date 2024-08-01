@@ -1,4 +1,4 @@
-#Link List
+# Link List
 
 This code is allocates the memory for 3 integer in a list pointer .
 It is assign the value on each index.
